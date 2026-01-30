@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Protocol Interceptor", "Protocol Interceptor.csproj", "{4E16A9A3-3D1C-4F7F-8FF2-347EEA3B172E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProtocolInterceptor", "SetupProtocolInterceptor\SetupProtocolInterceptor.vdproj", "{22907AB5-2AC7-4DD4-8D7E-39E74A5F34C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E16A9A3-3D1C-4F7F-8FF2-347EEA3B172E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E16A9A3-3D1C-4F7F-8FF2-347EEA3B172E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E16A9A3-3D1C-4F7F-8FF2-347EEA3B172E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E16A9A3-3D1C-4F7F-8FF2-347EEA3B172E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22907AB5-2AC7-4DD4-8D7E-39E74A5F34C9}.Debug|Any CPU.ActiveCfg = Debug
+		{22907AB5-2AC7-4DD4-8D7E-39E74A5F34C9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC8823D-21BF-48E2-ABDD-1B90F17DE6B1}
+	EndGlobalSection
+EndGlobal

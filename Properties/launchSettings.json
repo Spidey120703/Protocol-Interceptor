@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProtocolInterceptor": {
+      "commandName": "Project",
+      "commandLineArgs": "http://www.baidu.com"
+    }
+  }
+}
