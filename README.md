@@ -1,14 +1,14 @@
-# Protocol Interceptor - Ğ­ÒéÀ¹½ØÆ÷
+# Protocol Interceptor - åè®®æ‹¦æˆªå™¨
 
-À¹½Ø HTTP(S) Ğ­ÒéµÄ³¬Á´½Ó£¬ÔÚ Windows ²Ù×÷ÏµÍ³ÖĞ´¥·¢µÄ´ò¿ªÄ¬ÈÏä¯ÀÀÆ÷µÄĞĞÎª£¬
-²¢ÀûÓÃ Windows 10.0.17763.0 µÄÍ¨Öª¹¦ÄÜ£¬µ¯³öÔ­ÉúÍ¨Öª¿ò£¬ÈÃÓÃ»§¾ö¶¨ÊÇ·ñÌø×ª¡£
+æ‹¦æˆª HTTP(S) åè®®çš„è¶…é“¾æ¥ï¼Œåœ¨ Windows æ“ä½œç³»ç»Ÿä¸­è§¦å‘çš„æ‰“å¼€é»˜è®¤æµè§ˆå™¨çš„è¡Œä¸ºï¼Œ
+å¹¶åˆ©ç”¨ Windows 10.0.17763.0 çš„é€šçŸ¥åŠŸèƒ½ï¼Œå¼¹å‡ºåŸç”Ÿé€šçŸ¥æ¡†ï¼Œè®©ç”¨æˆ·å†³å®šæ˜¯å¦è·³è½¬ã€‚
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-1. Õı³£°²×°
-2. ÔËĞĞ `ms-settings:defaultapps?registeredAppUser=Protocol+Interceptor` ÉèÖÃÄ¬ÈÏÓ¦ÓÃÎª `Ğ­ÒéÀ¹½ØÆ÷`
-3. ¿ªÊ¼Ê¹ÓÃ
+1. æ­£å¸¸å®‰è£…
+2. è¿è¡Œ `ms-settings:defaultapps?registeredAppUser=Protocol+Interceptor` è®¾ç½®é»˜è®¤åº”ç”¨ä¸º `åè®®æ‹¦æˆªå™¨`
+3. å¼€å§‹ä½¿ç”¨
 
-## ²Î¿¼ÎÄµµ
-Ó¦ÓÃÍ¨Öª - [App notifications overview - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/)
-ÉèÖÃÄ¬ÈÏÓ¦ÓÃ - [Launch the Default Apps settings page - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/launch/launch-default-apps-settings)
+## å‚è€ƒæ–‡æ¡£
+- åº”ç”¨é€šçŸ¥ - [App notifications overview - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/)
+- è®¾ç½®é»˜è®¤åº”ç”¨ - [Launch the Default Apps settings page - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/launch/launch-default-apps-settings)
