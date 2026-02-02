@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ProtocolInterceptor.Program</StartupObject>
+    <StartupObject>Protocol_Interceptor.Program</StartupObject>
 	<UseWindowsForms>true</UseWindowsForms>
 	<PackageId>$(AssemblyName.Replace(" ", "-"))</PackageId>
 	<Product>$(AssemblyName)</Product>
