@@ -12,3 +12,5 @@
 ## 参考文档
 - 应用通知 - [App notifications overview - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/notifications/app-notifications/)
 - 设置默认应用 - [Launch the Default Apps settings page - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/develop/launch/launch-default-apps-settings)
+- 文件打开方式弹窗的参数 - [OPENASINFO (shlobj_core.h) - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/api/shlobj_core/ns-shlobj_core-openasinfo)
+- 文件打开方式弹窗 - [SHOpenWithDialog function (shlobj_core.h) - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shopenwithdialog)
